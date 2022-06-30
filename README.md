@@ -1,7 +1,7 @@
 ## The game was created by Aurélien Giuglaris Michael, Sezi Yakar, Lily McGrath, Gerben Prikanowski and Lale Koşucu Özgen.
 
 
-# Starting the game
+### Starting the game
 
 The Crazy Putting game can be run from MyLauncher.
 It will show the terrain were lakes are represented by blue
