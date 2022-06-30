@@ -28,7 +28,7 @@ SPACE: the bot will hit the ball as close to the target as
 it can.
 
 ------------------------------------------------------------
-# Settings
+### Settings
 
 In the App class the following constants can be changed:
 - instance, changes the golf course on which is played
@@ -42,7 +42,7 @@ There a are more constant values that can be changed,
 however changing them is not recomended.
 
 ------------------------------------------------------------
-# Input files
+### Input files
 
 When the program is run it will use two files:
  - a file by the name "terrain" + instance + ".txt".
@@ -61,7 +61,7 @@ or
 <x coordinate> <y coordinate>
 
 ------------------------------------------------------------
-# Experiments
+### Experiments
 
 The program can also be run from the Expireiments class.
 This class can be used to do the following two tests:
