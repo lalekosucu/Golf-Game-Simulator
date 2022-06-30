@@ -1,4 +1,4 @@
-# The game was created by Aurélien Giuglaris Michael, Sezi Yakar, Lily McGrath, Gerben Prikanowski and Lale Koşucu Özgen.
+The game was created by Aurélien Giuglaris Michael, Sezi Yakar, Lily McGrath, Gerben Prikanowski and Lale Koşucu Özgen.
 
 
 # Starting the game
